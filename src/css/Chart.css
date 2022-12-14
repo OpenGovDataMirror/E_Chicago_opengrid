@@ -1,0 +1,31 @@
+.ogrid-chart {
+}
+
+.ogrid-chart-modal .modal-header {
+    font-weight: bold;
+}
+
+.ogrid-chart-options .form-control-static {
+    padding: 0px;
+}
+
+.ogrid-chart-options .form-control {
+    padding: 0px;
+    height: 22px;
+}
+
+/*@media (min-width: 845px) {
+    .ogrid-chart-modal {
+        width: 50%;
+        margin: 10px auto 30px auto;
+    }
+}*/
+
+/*((.ogrid-chart-body {
+    height: 600px;
+}
+
+.ogrid-chart-canvas {
+    width: 100%  !important;
+    height: 100%  !important;
+}*/
